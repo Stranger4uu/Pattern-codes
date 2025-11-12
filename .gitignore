@@ -14,5 +14,6 @@
 
 # Temporary files created by your programs
 pattern_*
+rough
 !pattern_*.cpp
 *.tmp
