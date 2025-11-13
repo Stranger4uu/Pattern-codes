@@ -42,7 +42,7 @@ void print(int n)
 
     }
 
-    space = 8;
+    space = 2*n-2;
     for (int i = 1; i <= n; i++)
     {
 
